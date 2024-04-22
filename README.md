@@ -12,7 +12,7 @@ A very simple framework designed to give friendly and easy to trace back errors.
 - you will need intents after oct 7, 2020.
 
 ### first time set up
-1. clone the repo using `git clone https://github.com/miramallows/aesthetic-djs-bot-base/` in your designated project folder through command line.
+1. clone the repo using `git clone https://github.com/cowfyee/aesthetic-djs-bot-base/` in your designated project folder through command line.
 2. run `cd aesthetic-djs-bot-base` to get into the folder
 3. in your files, make sure to create a `.env` file. refer to `.env.example` for example of what it should look like. all sections should be filled in.
 
